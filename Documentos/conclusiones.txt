@@ -1,0 +1,31 @@
+CONCLUSIONES DEL EJERCICIO DE PRUEBA DE CARGA
+
+Tecnología utilizada:
+- Apache JMeter 5.6.3
+- Java JDK 8+
+- Sistema operativo: Windows 10/11
+- Script de prueba: Test Plan fakestoreapi.jmx
+
+Hallazgos principales:
+
+1. Usuarios Virtuales vs Requests:
+   - Los gráficos de 'Active Threads Over Time' muestran el incremento de usuarios virtuales según el plan de carga.
+   - 'Transactions per Second' refleja cómo las solicitudes por segundo aumentan a medida que se incrementa la carga.
+
+2. Rendimiento de la aplicación:
+   - Tiempos de respuesta estables bajo cargas bajas a medias.
+   - Picos de latencia observados al aumentar significativamente los usuarios simultáneos.
+
+3. Errores:
+   - No se detectaron errores críticos.
+   - Porcentaje de solicitudes fallidas mínimo o nulo según resultados.jtl y dashboard HTML.
+
+4. Conclusión general:
+   - El sistema maneja la carga planificada con rendimiento aceptable.
+   - Los dashboards HTML permiten analizar el comportamiento del sistema bajo diferentes cargas.
+   - Se recomienda realizar pruebas adicionales con escenarios más complejos para evaluar los límites de capacidad.
+
+Recomendaciones:
+- Monitorear latencia y throughput si se incrementa la carga más allá de los niveles actuales.
+- Usar dashboards HTML para reportes visuales de rendimiento.
+- Mantener registros de resultados.jtl para comparaciones futuras.
