@@ -1,0 +1,3228 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1776289782916,578,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,229,1,1,https://fakestoreapi.com/auth/login,578,0,156
+1776289783495,932,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,235,2,2,https://fakestoreapi.com/auth/login,932,0,434
+1776289783913,569,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,2,2,https://fakestoreapi.com/auth/login,568,0,148
+1776289784427,559,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,230,3,3,https://fakestoreapi.com/auth/login,559,0,139
+1776289784482,539,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,231,3,3,https://fakestoreapi.com/auth/login,539,0,126
+1776289784987,574,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,235,3,3,https://fakestoreapi.com/auth/login,573,0,128
+1776289784925,636,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,229,3,3,https://fakestoreapi.com/auth/login,635,0,141
+1776289785022,553,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,3,3,https://fakestoreapi.com/auth/login,553,0,134
+1776289785561,551,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",927,231,4,4,https://fakestoreapi.com/auth/login,551,0,139
+1776289785577,549,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,4,4,https://fakestoreapi.com/auth/login,549,0,130
+1776289785561,567,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,230,4,4,https://fakestoreapi.com/auth/login,566,0,143
+1776289785914,661,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",922,235,4,4,https://fakestoreapi.com/auth/login,661,0,141
+1776289786126,528,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,230,4,4,https://fakestoreapi.com/auth/login,528,0,121
+1776289786113,545,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",910,229,4,4,https://fakestoreapi.com/auth/login,544,0,125
+1776289786128,543,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,231,4,4,https://fakestoreapi.com/auth/login,542,0,124
+1776289786576,552,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,229,5,5,https://fakestoreapi.com/auth/login,552,0,129
+1776289786658,552,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,5,5,https://fakestoreapi.com/auth/login,552,0,140
+1776289786654,558,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,235,5,5,https://fakestoreapi.com/auth/login,558,0,142
+1776289786671,550,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,230,5,5,https://fakestoreapi.com/auth/login,550,0,135
+1776289786922,554,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,231,5,5,https://fakestoreapi.com/auth/login,554,0,137
+1776289787129,549,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,229,5,5,https://fakestoreapi.com/auth/login,549,0,132
+1776289787211,540,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,235,5,5,https://fakestoreapi.com/auth/login,539,0,123
+1776289787212,575,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,5,5,https://fakestoreapi.com/auth/login,575,0,164
+1776289787222,591,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",921,230,5,5,https://fakestoreapi.com/auth/login,591,0,160
+1776289787477,683,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,231,6,6,https://fakestoreapi.com/auth/login,683,0,128
+1776289787679,539,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,229,6,6,https://fakestoreapi.com/auth/login,539,0,130
+1776289787787,845,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,229,6,6,https://fakestoreapi.com/auth/login,844,0,374
+1776289787814,818,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,230,6,6,https://fakestoreapi.com/auth/login,817,0,406
+1776289787751,881,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",910,235,6,6,https://fakestoreapi.com/auth/login,880,0,410
+1776289787921,728,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,231,6,6,https://fakestoreapi.com/auth/login,727,0,309
+1776289788162,538,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,229,6,6,https://fakestoreapi.com/auth/login,537,0,128
+1776289788219,538,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",924,235,6,6,https://fakestoreapi.com/auth/login,538,0,127
+1776289788632,535,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",921,230,7,7,https://fakestoreapi.com/auth/login,534,0,128
+1776289788632,539,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,231,7,7,https://fakestoreapi.com/auth/login,538,0,128
+1776289788650,534,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,229,6,6,https://fakestoreapi.com/auth/login,534,0,127
+1776289788700,563,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",921,235,6,6,https://fakestoreapi.com/auth/login,563,0,134
+1776289788758,548,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,229,6,6,https://fakestoreapi.com/auth/login,547,0,141
+1776289788919,692,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,230,6,6,https://fakestoreapi.com/auth/login,692,0,284
+1776289789186,562,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",926,229,6,6,https://fakestoreapi.com/auth/login,561,0,141
+1776289789168,582,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,231,6,6,https://fakestoreapi.com/auth/login,582,0,152
+1776289789265,573,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,235,6,6,https://fakestoreapi.com/auth/login,572,0,130
+1776289789308,560,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,229,6,6,https://fakestoreapi.com/auth/login,560,0,127
+1776289789612,763,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,230,7,7,https://fakestoreapi.com/auth/login,762,0,152
+1776289788632,1743,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-2,text,false,"La operación duró demasiado: tardó 1.743 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",908,229,7,7,https://fakestoreapi.com/auth/login,1742,0,1147
+1776289789748,665,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,231,7,7,https://fakestoreapi.com/auth/login,665,0,129
+1776289789838,575,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",922,235,7,7,https://fakestoreapi.com/auth/login,575,0,132
+1776289789869,544,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,229,7,7,https://fakestoreapi.com/auth/login,544,0,134
+1776289789752,661,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,229,7,7,https://fakestoreapi.com/auth/login,661,0,125
+1776289789920,600,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,230,7,7,https://fakestoreapi.com/auth/login,600,0,179
+1776289790375,551,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,231,8,8,https://fakestoreapi.com/auth/login,550,0,127
+1776289790377,549,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,229,8,8,https://fakestoreapi.com/auth/login,548,0,128
+1776289790414,524,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,235,7,7,https://fakestoreapi.com/auth/login,523,0,125
+1776289790414,529,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,231,7,7,https://fakestoreapi.com/auth/login,528,0,126
+1776289790414,534,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,230,6,6,https://fakestoreapi.com/auth/login,533,0,123
+1776289790414,542,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,6,6,https://fakestoreapi.com/auth/login,542,0,131
+1776289790522,552,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",923,229,6,6,https://fakestoreapi.com/auth/login,552,0,131
+1776289790919,572,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,235,6,6,https://fakestoreapi.com/auth/login,572,0,138
+1776289790926,565,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,229,6,6,https://fakestoreapi.com/auth/login,565,0,121
+1776289790948,589,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,231,6,6,https://fakestoreapi.com/auth/login,589,0,139
+1776289790938,599,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",910,230,6,6,https://fakestoreapi.com/auth/login,599,0,132
+1776289791075,774,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",910,235,6,6,https://fakestoreapi.com/auth/login,774,0,142
+1776289790957,892,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",910,229,6,6,https://fakestoreapi.com/auth/login,892,0,130
+1776289791538,875,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,229,6,6,https://fakestoreapi.com/auth/login,875,0,381
+1776289791537,876,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",921,231,6,6,https://fakestoreapi.com/auth/login,876,0,378
+1776289791850,563,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,235,6,6,https://fakestoreapi.com/auth/login,563,0,127
+1776289791917,540,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",910,229,6,6,https://fakestoreapi.com/auth/login,540,0,129
+1776289792413,531,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,231,7,7,https://fakestoreapi.com/auth/login,531,0,122
+1776289792414,531,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",910,229,7,7,https://fakestoreapi.com/auth/login,530,0,121
+1776289792458,529,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,235,7,7,https://fakestoreapi.com/auth/login,529,0,127
+1776289792413,580,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,230,7,7,https://fakestoreapi.com/auth/login,580,0,122
+1776289791491,1545,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-7,text,false,"La operación duró demasiado: tardó 1.545 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",915,229,6,6,https://fakestoreapi.com/auth/login,1545,0,1135
+1776289791491,1562,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-9,text,false,"La operación duró demasiado: tardó 1.562 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",906,230,6,6,https://fakestoreapi.com/auth/login,1562,0,1137
+1776289792945,610,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,230,6,6,https://fakestoreapi.com/auth/login,610,0,125
+1776289792945,610,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,231,6,6,https://fakestoreapi.com/auth/login,610,0,128
+1776289792917,638,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",908,229,6,6,https://fakestoreapi.com/auth/login,637,0,132
+1776289792989,581,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,229,6,6,https://fakestoreapi.com/auth/login,580,0,164
+1776289793053,573,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",905,229,6,6,https://fakestoreapi.com/auth/login,573,0,165
+1776289793036,600,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",928,235,6,6,https://fakestoreapi.com/auth/login,600,0,182
+1776289793556,546,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,231,7,7,https://fakestoreapi.com/auth/login,545,0,127
+1776289793556,551,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",922,229,7,7,https://fakestoreapi.com/auth/login,550,0,138
+1776289793555,570,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,230,7,7,https://fakestoreapi.com/auth/login,569,0,133
+1776289793570,560,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,235,6,6,https://fakestoreapi.com/auth/login,560,0,135
+1776289793626,544,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,229,6,6,https://fakestoreapi.com/auth/login,544,0,132
+1776289793636,540,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,230,6,6,https://fakestoreapi.com/auth/login,539,0,135
+1776289793917,537,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,231,6,6,https://fakestoreapi.com/auth/login,537,0,132
+1776289794107,545,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,235,6,6,https://fakestoreapi.com/auth/login,545,0,131
+1776289794103,549,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,229,6,6,https://fakestoreapi.com/auth/login,549,0,130
+1776289794131,533,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,229,6,6,https://fakestoreapi.com/auth/login,533,0,129
+1776289794170,536,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",907,230,6,6,https://fakestoreapi.com/auth/login,536,0,128
+1776289794176,541,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,231,6,6,https://fakestoreapi.com/auth/login,541,0,125
+1776289794456,541,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",921,229,7,7,https://fakestoreapi.com/auth/login,541,0,132
+1776289794653,718,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,235,7,7,https://fakestoreapi.com/auth/login,717,0,128
+1776289794666,705,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,230,7,7,https://fakestoreapi.com/auth/login,705,0,120
+1776289794719,652,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,229,7,7,https://fakestoreapi.com/auth/login,651,0,128
+1776289794708,663,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,231,7,7,https://fakestoreapi.com/auth/login,662,0,132
+1776289794653,718,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,229,7,7,https://fakestoreapi.com/auth/login,717,0,126
+1776289794916,546,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,235,7,7,https://fakestoreapi.com/auth/login,545,0,130
+1776289794997,908,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,7,7,https://fakestoreapi.com/auth/login,908,0,374
+1776289795371,549,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,231,8,8,https://fakestoreapi.com/auth/login,549,0,143
+1776289795371,552,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,230,8,8,https://fakestoreapi.com/auth/login,551,0,137
+1776289795373,551,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,8,8,https://fakestoreapi.com/auth/login,550,0,139
+1776289795373,551,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,235,7,7,https://fakestoreapi.com/auth/login,551,0,137
+1776289795373,559,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,229,7,7,https://fakestoreapi.com/auth/login,558,0,145
+1776289795462,553,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,230,6,6,https://fakestoreapi.com/auth/login,553,0,125
+1776289795920,590,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",930,235,6,6,https://fakestoreapi.com/auth/login,590,0,121
+1776289795905,605,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,231,6,6,https://fakestoreapi.com/auth/login,605,0,130
+1776289795916,594,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,229,6,6,https://fakestoreapi.com/auth/login,594,0,134
+1776289795925,585,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,230,6,6,https://fakestoreapi.com/auth/login,585,0,126
+1776289796511,531,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,229,7,7,https://fakestoreapi.com/auth/login,531,0,121
+1776289796511,535,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",922,235,7,7,https://fakestoreapi.com/auth/login,535,0,124
+1776289796915,613,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,231,7,7,https://fakestoreapi.com/auth/login,613,0,125
+1776289795923,1605,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-11,text,false,"La operación duró demasiado: tardó 1.605 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",916,229,7,7,https://fakestoreapi.com/auth/login,1605,0,1137
+1776289796016,1554,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-13,text,false,"La operación duró demasiado: tardó 1.554 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",921,231,7,7,https://fakestoreapi.com/auth/login,1553,0,1132
+1776289797043,537,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",922,229,7,7,https://fakestoreapi.com/auth/login,537,0,126
+1776289797047,545,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,235,6,6,https://fakestoreapi.com/auth/login,545,0,128
+1776289796511,1552,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-12,text,false,"La operación duró demasiado: tardó 1.552 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",915,229,6,6,https://fakestoreapi.com/auth/login,1552,0,1143
+1776289797529,539,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",907,229,6,6,https://fakestoreapi.com/auth/login,539,0,133
+1776289796512,1560,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-14,text,false,"La operación duró demasiado: tardó 1.560 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",907,230,6,6,https://fakestoreapi.com/auth/login,1560,0,1140
+1776289797529,546,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",923,230,6,6,https://fakestoreapi.com/auth/login,546,0,136
+1776289797570,544,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,231,6,6,https://fakestoreapi.com/auth/login,543,0,136
+1776289797917,641,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,229,6,6,https://fakestoreapi.com/auth/login,640,0,132
+1776289798069,528,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,229,6,6,https://fakestoreapi.com/auth/login,527,0,125
+1776289798075,535,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",921,231,6,6,https://fakestoreapi.com/auth/login,534,0,125
+1776289798073,548,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,230,6,6,https://fakestoreapi.com/auth/login,548,0,128
+1776289798115,550,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,6,6,https://fakestoreapi.com/auth/login,550,0,128
+1776289798622,557,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,231,7,7,https://fakestoreapi.com/auth/login,556,0,125
+1776289798666,536,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,229,7,7,https://fakestoreapi.com/auth/login,536,0,128
+1776289798913,551,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",924,235,7,7,https://fakestoreapi.com/auth/login,551,0,136
+1776289798063,1558,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-12,text,false,"La operación duró demasiado: tardó 1.558 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,235,7,7,https://fakestoreapi.com/auth/login,1557,0,1149
+1776289799179,550,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",921,229,7,7,https://fakestoreapi.com/auth/login,549,0,132
+1776289799464,534,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,231,8,8,https://fakestoreapi.com/auth/login,533,0,124
+1776289798558,1586,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-16,text,false,"La operación duró demasiado: tardó 1.586 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",915,235,8,8,https://fakestoreapi.com/auth/login,1586,0,1164
+1776289798597,1559,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-15,text,false,"La operación duró demasiado: tardó 1.559 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",915,229,8,8,https://fakestoreapi.com/auth/login,1559,0,1147
+1776289798610,1550,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-11,text,false,"La operación duró demasiado: tardó 1.550 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",919,230,8,8,https://fakestoreapi.com/auth/login,1550,0,1135
+1776289799729,562,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,235,8,8,https://fakestoreapi.com/auth/login,562,0,137
+1776289799914,568,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,229,8,8,https://fakestoreapi.com/auth/login,568,0,142
+1776289799998,545,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,230,8,8,https://fakestoreapi.com/auth/login,544,0,127
+1776289800145,532,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,231,8,8,https://fakestoreapi.com/auth/login,532,0,127
+1776289800158,544,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,229,8,8,https://fakestoreapi.com/auth/login,544,0,128
+1776289799203,1588,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-13,text,false,"La operación duró demasiado: tardó 1.588 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",921,230,8,8,https://fakestoreapi.com/auth/login,1588,0,1171
+1776289800292,568,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,229,8,8,https://fakestoreapi.com/auth/login,568,0,149
+1776289800483,566,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,230,9,9,https://fakestoreapi.com/auth/login,566,0,133
+1776289800543,565,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,231,9,9,https://fakestoreapi.com/auth/login,565,0,152
+1776289799622,1564,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-12,text,false,"La operación duró demasiado: tardó 1.564 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",921,229,9,9,https://fakestoreapi.com/auth/login,1564,0,1141
+1776289800679,555,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,9,9,https://fakestoreapi.com/auth/login,554,0,140
+1776289800702,554,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,235,9,9,https://fakestoreapi.com/auth/login,554,0,134
+1776289800792,544,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,229,9,9,https://fakestoreapi.com/auth/login,544,0,128
+1776289800860,570,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,230,9,9,https://fakestoreapi.com/auth/login,569,0,130
+1776289801051,586,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,9,9,https://fakestoreapi.com/auth/login,586,0,139
+1776289801108,546,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,235,9,9,https://fakestoreapi.com/auth/login,546,0,133
+1776289801186,532,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",922,229,9,9,https://fakestoreapi.com/auth/login,532,0,122
+1776289800160,1574,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-11,text,false,"La operación duró demasiado: tardó 1.574 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",921,235,9,9,https://fakestoreapi.com/auth/login,1574,0,1145
+1776289801234,540,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,230,8,8,https://fakestoreapi.com/auth/login,540,0,126
+1776289801337,548,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,229,8,8,https://fakestoreapi.com/auth/login,548,0,130
+1776289801637,549,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,229,9,9,https://fakestoreapi.com/auth/login,549,0,134
+1776289801654,558,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,230,9,9,https://fakestoreapi.com/auth/login,558,0,130
+1776289801718,575,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",922,231,9,9,https://fakestoreapi.com/auth/login,575,0,145
+1776289801776,550,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,229,9,9,https://fakestoreapi.com/auth/login,549,0,136
+1776289801886,538,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,235,9,9,https://fakestoreapi.com/auth/login,537,0,123
+1776289801914,576,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",908,229,8,8,https://fakestoreapi.com/auth/login,576,0,147
+1776289800913,1580,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-19,text,false,"La operación duró demasiado: tardó 1.580 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",920,231,8,8,https://fakestoreapi.com/auth/login,1579,0,1148
+1776289802213,557,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,231,8,8,https://fakestoreapi.com/auth/login,557,0,129
+1776289801261,1589,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-15,text,false,"La operación duró demasiado: tardó 1.589 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",919,231,8,8,https://fakestoreapi.com/auth/login,1589,0,1163
+1776289801430,1552,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-14,text,false,"La operación duró demasiado: tardó 1.552 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",916,235,9,9,https://fakestoreapi.com/auth/login,1551,0,1146
+1776289802491,542,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,229,9,9,https://fakestoreapi.com/auth/login,541,0,130
+1776289802493,584,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,230,9,9,https://fakestoreapi.com/auth/login,583,0,144
+1776289802771,560,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,231,9,9,https://fakestoreapi.com/auth/login,560,0,145
+1776289802915,551,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,235,9,9,https://fakestoreapi.com/auth/login,550,0,126
+1776289802982,545,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",907,229,9,9,https://fakestoreapi.com/auth/login,544,0,130
+1776289803033,556,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,230,8,8,https://fakestoreapi.com/auth/login,556,0,138
+1776289803077,537,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,231,8,8,https://fakestoreapi.com/auth/login,537,0,125
+1776289802187,1561,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-18,text,false,"La operación duró demasiado: tardó 1.561 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",912,230,8,8,https://fakestoreapi.com/auth/login,1560,0,1156
+1776289802294,1540,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-12,text,false,"La operación duró demasiado: tardó 1.540 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",927,229,8,8,https://fakestoreapi.com/auth/login,1539,0,1133
+1776289803333,536,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,229,7,7,https://fakestoreapi.com/auth/login,536,0,129
+1776289802326,1547,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-16,text,false,"La operación duró demasiado: tardó 1.547 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",922,235,7,7,https://fakestoreapi.com/auth/login,1547,0,1135
+1776289803590,559,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,229,8,8,https://fakestoreapi.com/auth/login,558,0,130
+1776289803748,566,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,231,8,8,https://fakestoreapi.com/auth/login,565,0,139
+1776289802852,1571,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-15,text,false,"La operación duró demasiado: tardó 1.571 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",909,229,8,8,https://fakestoreapi.com/auth/login,1571,0,1138
+1776289803873,566,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,235,8,8,https://fakestoreapi.com/auth/login,566,0,149
+1776289803870,573,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,229,8,8,https://fakestoreapi.com/auth/login,572,0,155
+1776289803914,574,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,229,7,7,https://fakestoreapi.com/auth/login,573,0,143
+1776289804149,557,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,230,7,7,https://fakestoreapi.com/auth/login,556,0,130
+1776289804314,551,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,231,7,7,https://fakestoreapi.com/auth/login,550,0,129
+1776289804424,556,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,229,8,8,https://fakestoreapi.com/auth/login,555,0,138
+1776289804440,550,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,235,8,8,https://fakestoreapi.com/auth/login,549,0,134
+1776289803466,1560,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-21,text,false,"La operación duró demasiado: tardó 1.560 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",917,235,8,8,https://fakestoreapi.com/auth/login,1560,0,1126
+1776289803615,1555,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-19,text,false,"La operación duró demasiado: tardó 1.555 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",907,230,8,8,https://fakestoreapi.com/auth/login,1554,0,1139
+1776289804706,564,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,230,8,8,https://fakestoreapi.com/auth/login,564,0,137
+1776289804865,568,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,231,8,8,https://fakestoreapi.com/auth/login,567,0,125
+1776289804980,533,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,235,8,8,https://fakestoreapi.com/auth/login,532,0,122
+1776289804990,537,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",921,229,7,7,https://fakestoreapi.com/auth/login,537,0,121
+1776289805027,532,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,230,6,6,https://fakestoreapi.com/auth/login,531,0,124
+1776289805170,524,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,231,6,6,https://fakestoreapi.com/auth/login,524,0,124
+1776289805271,577,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,229,6,6,https://fakestoreapi.com/auth/login,576,0,135
+1776289804488,1549,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-22,text,false,"La operación duró demasiado: tardó 1.549 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",913,229,7,7,https://fakestoreapi.com/auth/login,1549,0,1141
+1776289805559,555,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,7,7,https://fakestoreapi.com/auth/login,555,0,132
+1776289804914,1563,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-23,text,false,"La operación duró demasiado: tardó 1.563 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",910,229,7,7,https://fakestoreapi.com/auth/login,1563,0,1154
+1776289805916,569,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,229,7,7,https://fakestoreapi.com/auth/login,569,0,150
+1776289806038,545,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,235,7,7,https://fakestoreapi.com/auth/login,544,0,130
+1776289806114,566,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,229,7,7,https://fakestoreapi.com/auth/login,566,0,144
+1776289805433,1573,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-18,text,false,"La operación duró demasiado: tardó 1.573 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",917,235,8,8,https://fakestoreapi.com/auth/login,1572,0,1146
+1776289806478,537,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,230,8,8,https://fakestoreapi.com/auth/login,537,0,130
+1776289806486,546,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,231,8,8,https://fakestoreapi.com/auth/login,546,0,128
+1776289806584,538,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",910,229,8,8,https://fakestoreapi.com/auth/login,538,0,121
+1776289805695,1547,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-19,text,false,"La operación duró demasiado: tardó 1.547 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",916,230,8,8,https://fakestoreapi.com/auth/login,1546,0,1132
+1776289805848,1551,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-20,text,false,"La operación duró demasiado: tardó 1.551 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",921,231,8,8,https://fakestoreapi.com/auth/login,1551,0,1138
+1776289807006,555,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,230,8,8,https://fakestoreapi.com/auth/login,555,0,141
+1776289807034,537,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,229,7,7,https://fakestoreapi.com/auth/login,537,0,130
+1776289807015,588,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,231,7,7,https://fakestoreapi.com/auth/login,588,0,135
+1776289807123,573,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,235,7,7,https://fakestoreapi.com/auth/login,573,0,144
+1776289807243,559,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,229,7,7,https://fakestoreapi.com/auth/login,559,0,136
+1776289807400,532,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,230,8,8,https://fakestoreapi.com/auth/login,532,0,123
+1776289807571,538,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,231,8,8,https://fakestoreapi.com/auth/login,537,0,127
+1776289807605,564,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,8,8,https://fakestoreapi.com/auth/login,563,0,141
+1776289806681,1561,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-21,text,false,"La operación duró demasiado: tardó 1.561 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,235,8,8,https://fakestoreapi.com/auth/login,1560,0,1151
+1776289806913,1558,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-25,text,false,"La operación duró demasiado: tardó 1.558 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",922,229,8,8,https://fakestoreapi.com/auth/login,1558,0,1140
+1776289807932,541,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,231,8,8,https://fakestoreapi.com/auth/login,541,0,126
+1776289808110,558,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,229,7,7,https://fakestoreapi.com/auth/login,558,0,148
+1776289808169,559,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,235,7,7,https://fakestoreapi.com/auth/login,559,0,153
+1776289808242,591,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,229,7,7,https://fakestoreapi.com/auth/login,591,0,176
+1776289808472,544,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-25,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,230,8,8,https://fakestoreapi.com/auth/login,543,0,129
+1776289808668,544,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",923,231,8,8,https://fakestoreapi.com/auth/login,544,0,138
+1776289807696,1556,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-22,text,false,"La operación duró demasiado: tardó 1.556 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",911,235,8,8,https://fakestoreapi.com/auth/login,1555,0,1136
+1776289808730,549,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,229,8,8,https://fakestoreapi.com/auth/login,549,0,138
+1776289807803,1555,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-19,text,false,"La operación duró demasiado: tardó 1.555 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",909,229,8,8,https://fakestoreapi.com/auth/login,1555,0,1131
+1776289808834,564,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,235,8,8,https://fakestoreapi.com/auth/login,563,0,145
+1776289807914,1593,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-26,text,false,"La operación duró demasiado: tardó 1.593 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",913,230,8,8,https://fakestoreapi.com/auth/login,1593,0,1170
+1776289808913,615,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,229,8,8,https://fakestoreapi.com/auth/login,615,0,150
+1776289809016,541,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-25,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,230,8,8,https://fakestoreapi.com/auth/login,540,0,128
+1776289809253,539,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,229,8,8,https://fakestoreapi.com/auth/login,539,0,126
+1776289809358,569,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,229,9,9,https://fakestoreapi.com/auth/login,568,0,144
+1776289809398,584,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,230,9,9,https://fakestoreapi.com/auth/login,584,0,171
+1776289809529,546,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,229,9,9,https://fakestoreapi.com/auth/login,546,0,134
+1776289809793,573,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",908,229,9,9,https://fakestoreapi.com/auth/login,573,0,150
+1776289809912,551,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,230,9,9,https://fakestoreapi.com/auth/login,550,0,132
+1776289809927,546,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,231,9,9,https://fakestoreapi.com/auth/login,546,0,131
+1776289810075,557,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",921,235,8,8,https://fakestoreapi.com/auth/login,557,0,142
+1776289809213,1558,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-24,text,false,"La operación duró demasiado: tardó 1.558 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",915,231,8,8,https://fakestoreapi.com/auth/login,1558,0,1145
+1776289809280,1563,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-23,text,false,"La operación duró demasiado: tardó 1.563 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",925,235,8,8,https://fakestoreapi.com/auth/login,1563,0,1141
+1776289810367,561,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,229,9,9,https://fakestoreapi.com/auth/login,560,0,134
+1776289810463,534,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,230,9,9,https://fakestoreapi.com/auth/login,533,0,130
+1776289809507,1582,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-26,text,false,"La operación duró demasiado: tardó 1.582 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",916,231,9,9,https://fakestoreapi.com/auth/login,1581,0,1144
+1776289809557,1819,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-25,text,false,"La operación duró demasiado: tardó 1.819 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",919,235,9,9,https://fakestoreapi.com/auth/login,1818,0,1145
+1776289810928,639,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,230,9,9,https://fakestoreapi.com/auth/login,639,0,125
+1776289810913,654,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-29,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,229,9,9,https://fakestoreapi.com/auth/login,654,0,129
+1776289809984,1711,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-21,text,false,"La operación duró demasiado: tardó 1.711 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",912,229,8,8,https://fakestoreapi.com/auth/login,1711,0,1132
+1776289811090,902,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-26,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,229,8,8,https://fakestoreapi.com/auth/login,902,0,477
+1776289810632,1749,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-27,text,false,"La operación duró demasiado: tardó 1.749 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",913,231,8,8,https://fakestoreapi.com/auth/login,1748,0,1174
+1776289810772,1887,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-24,text,false,"La operación duró demasiado: tardó 1.887 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",916,229,8,8,https://fakestoreapi.com/auth/login,1887,0,1220
+1776289810844,1817,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-23,text,false,"La operación duró demasiado: tardó 1.817 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",916,235,8,8,https://fakestoreapi.com/auth/login,1817,0,1237
+1776289811915,761,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-30,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,230,8,8,https://fakestoreapi.com/auth/login,761,0,249
+1776289810997,1699,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-28,text,false,"La operación duró demasiado: tardó 1.699 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",924,231,8,8,https://fakestoreapi.com/auth/login,1699,0,1166
+1776289811993,706,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-26,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,231,8,8,https://fakestoreapi.com/auth/login,706,0,200
+1776289811377,1814,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-25,text,false,"La operación duró demasiado: tardó 1.814 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",920,235,9,9,https://fakestoreapi.com/auth/login,1813,0,1397
+1776289811567,1665,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-29,text,false,"La operación duró demasiado: tardó 1.665 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",905,229,9,9,https://fakestoreapi.com/auth/login,1665,0,1256
+1776289812659,603,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,235,9,9,https://fakestoreapi.com/auth/login,603,0,174
+1776289812697,593,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,231,9,9,https://fakestoreapi.com/auth/login,593,0,181
+1776289812912,547,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",924,235,9,9,https://fakestoreapi.com/auth/login,546,0,136
+1776289812382,1553,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-27,text,false,"La operación duró demasiado: tardó 1.553 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",910,229,10,10,https://fakestoreapi.com/auth/login,1553,0,1136
+1776289812662,1546,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-23,text,false,"La operación duró demasiado: tardó 1.546 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",911,229,10,10,https://fakestoreapi.com/auth/login,1546,0,1133
+1776289812676,1550,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-30,text,false,"La operación duró demasiado: tardó 1.550 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",909,230,10,10,https://fakestoreapi.com/auth/login,1549,0,1134
+1776289812700,1570,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-26,text,false,"La operación duró demasiado: tardó 1.570 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",916,229,10,10,https://fakestoreapi.com/auth/login,1570,0,1158
+1776289813191,1573,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-25,text,false,"La operación duró demasiado: tardó 1.573 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",919,229,10,10,https://fakestoreapi.com/auth/login,1573,0,1150
+1776289814209,565,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,231,10,10,https://fakestoreapi.com/auth/login,565,0,132
+1776289813233,1543,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-29,text,false,"La operación duró demasiado: tardó 1.543 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",911,230,9,9,https://fakestoreapi.com/auth/login,1543,0,1134
+1776289813263,1542,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-24,text,false,"La operación duró demasiado: tardó 1.542 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",920,231,9,9,https://fakestoreapi.com/auth/login,1542,0,1134
+1776289813292,1556,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-28,text,false,"La operación duró demasiado: tardó 1.556 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,229,8,8,https://fakestoreapi.com/auth/login,1556,0,1143
+1776289813459,1560,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-31,text,false,"La operación duró demasiado: tardó 1.560 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",928,235,9,9,https://fakestoreapi.com/auth/login,1559,0,1154
+1776289814765,543,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-25,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,229,9,9,https://fakestoreapi.com/auth/login,543,0,128
+1776289814777,542,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-29,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,230,9,9,https://fakestoreapi.com/auth/login,542,0,128
+1776289814848,556,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,231,9,9,https://fakestoreapi.com/auth/login,556,0,134
+1776289813912,1545,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-32,text,false,"La operación duró demasiado: tardó 1.545 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",921,229,9,9,https://fakestoreapi.com/auth/login,1545,0,1127
+1776289814914,546,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",910,229,9,9,https://fakestoreapi.com/auth/login,546,0,134
+1776289813936,1545,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-27,text,false,"La operación duró demasiado: tardó 1.545 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",917,230,9,9,https://fakestoreapi.com/auth/login,1544,0,1138
+1776289815020,535,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",926,235,9,9,https://fakestoreapi.com/auth/login,535,0,131
+1776289814227,1547,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-30,text,false,"La operación duró demasiado: tardó 1.547 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",906,229,9,9,https://fakestoreapi.com/auth/login,1547,0,1129
+1776289814270,1552,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-26,text,false,"La operación duró demasiado: tardó 1.552 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",914,235,9,9,https://fakestoreapi.com/auth/login,1551,0,1135
+1776289815308,540,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-25,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,229,9,9,https://fakestoreapi.com/auth/login,540,0,124
+1776289815459,535,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-32,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,229,10,10,https://fakestoreapi.com/auth/login,535,0,130
+1776289815461,539,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,235,10,10,https://fakestoreapi.com/auth/login,539,0,125
+1776289815481,535,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,229,10,10,https://fakestoreapi.com/auth/login,535,0,128
+1776289815555,561,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,230,10,10,https://fakestoreapi.com/auth/login,561,0,132
+1776289815774,538,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-30,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",923,231,10,10,https://fakestoreapi.com/auth/login,537,0,130
+1776289815823,534,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-26,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,229,10,10,https://fakestoreapi.com/auth/login,533,0,122
+1776289815911,552,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,229,10,10,https://fakestoreapi.com/auth/login,552,0,141
+1776289815995,535,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-32,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,230,10,10,https://fakestoreapi.com/auth/login,535,0,125
+1776289816017,536,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,229,10,10,https://fakestoreapi.com/auth/login,536,0,127
+1776289815320,1551,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-29,text,false,"La operación duró demasiado: tardó 1.551 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",911,230,10,10,https://fakestoreapi.com/auth/login,1551,0,1139
+1776289816357,548,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-26,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,230,10,10,https://fakestoreapi.com/auth/login,547,0,135
+1776289815405,1531,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-28,text,false,"La operación duró demasiado: tardó 1.531 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",915,231,11,11,https://fakestoreapi.com/auth/login,1530,0,1125
+1776289816553,554,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",924,235,11,11,https://fakestoreapi.com/auth/login,554,0,134
+1776289815848,1536,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-25,text,false,"La operación duró demasiado: tardó 1.536 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,235,11,11,https://fakestoreapi.com/auth/login,1535,0,1124
+1776289816872,540,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-29,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",921,229,11,11,https://fakestoreapi.com/auth/login,540,0,125
+1776289816937,523,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,229,11,11,https://fakestoreapi.com/auth/login,523,0,124
+1776289816001,1539,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-33,text,false,"La operación duró demasiado: tardó 1.539 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",917,231,11,11,https://fakestoreapi.com/auth/login,1539,0,1132
+1776289817108,546,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,235,11,11,https://fakestoreapi.com/auth/login,546,0,135
+1776289816116,1596,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-31,text,false,"La operación duró demasiado: tardó 1.596 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,235,10,10,https://fakestoreapi.com/auth/login,1596,0,1154
+1776289816312,1637,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-30,text,false,"La operación duró demasiado: tardó 1.637 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",911,229,11,11,https://fakestoreapi.com/auth/login,1636,0,1161
+1776289817461,535,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,231,11,11,https://fakestoreapi.com/auth/login,535,0,129
+1776289816464,1563,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-34,text,false,"La operación duró demasiado: tardó 1.563 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",913,231,11,11,https://fakestoreapi.com/auth/login,1563,0,1145
+1776289816531,1559,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-32,text,false,"La operación duró demasiado: tardó 1.559 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",916,229,11,11,https://fakestoreapi.com/auth/login,1559,0,1142
+1776289816905,1559,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-26,text,false,"La operación duró demasiado: tardó 1.559 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",911,230,11,11,https://fakestoreapi.com/auth/login,1559,0,1139
+1776289817913,551,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,11,11,https://fakestoreapi.com/auth/login,551,0,134
+1776289817996,557,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",922,231,11,11,https://fakestoreapi.com/auth/login,557,0,141
+1776289818028,539,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,229,10,10,https://fakestoreapi.com/auth/login,539,0,128
+1776289816911,1678,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-35,text,false,"La operación duró demasiado: tardó 1.678 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",917,231,10,10,https://fakestoreapi.com/auth/login,1677,0,1149
+1776289817384,1580,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-25,text,false,"La operación duró demasiado: tardó 1.580 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",920,229,11,11,https://fakestoreapi.com/auth/login,1580,0,1136
+1776289817413,1576,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-29,text,false,"La operación duró demasiado: tardó 1.576 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",909,230,10,10,https://fakestoreapi.com/auth/login,1575,0,1166
+1776289817541,1545,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-33,text,false,"La operación duró demasiado: tardó 1.545 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,229,10,10,https://fakestoreapi.com/auth/login,1545,0,1128
+1776289817713,1553,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-31,text,false,"La operación duró demasiado: tardó 1.553 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",925,235,10,10,https://fakestoreapi.com/auth/login,1552,0,1130
+1776289818913,583,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-37,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",921,235,10,10,https://fakestoreapi.com/auth/login,583,0,134
+1776289817949,1570,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-30,text,false,"La operación duró demasiado: tardó 1.570 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",914,230,10,10,https://fakestoreapi.com/auth/login,1569,0,1144
+1776289818989,537,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-29,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,10,10,https://fakestoreapi.com/auth/login,537,0,126
+1776289819087,534,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,230,10,10,https://fakestoreapi.com/auth/login,533,0,128
+1776289818090,1563,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-32,text,false,"La operación duró demasiado: tardó 1.563 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",924,235,10,10,https://fakestoreapi.com/auth/login,1563,0,1140
+1776289818464,1544,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-26,text,false,"La operación duró demasiado: tardó 1.544 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",915,229,11,11,https://fakestoreapi.com/auth/login,1543,0,1129
+1776289818464,1548,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-36,text,false,"La operación duró demasiado: tardó 1.548 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",913,230,10,10,https://fakestoreapi.com/auth/login,1548,0,1135
+1776289819497,537,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-37,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,229,10,10,https://fakestoreapi.com/auth/login,536,0,131
+1776289819519,524,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-30,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",930,235,10,10,https://fakestoreapi.com/auth/login,524,0,121
+1776289819527,540,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-29,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,229,10,10,https://fakestoreapi.com/auth/login,540,0,126
+1776289818568,1544,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-34,text,false,"La operación duró demasiado: tardó 1.544 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",914,231,10,10,https://fakestoreapi.com/auth/login,1543,0,1133
+1776289818590,1546,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-35,text,false,"La operación duró demasiado: tardó 1.546 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,229,10,10,https://fakestoreapi.com/auth/login,1545,0,1136
+1776289819622,537,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,230,10,10,https://fakestoreapi.com/auth/login,537,0,131
+1776289819912,573,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,229,10,10,https://fakestoreapi.com/auth/login,573,0,138
+1776289820013,541,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,235,10,10,https://fakestoreapi.com/auth/login,541,0,125
+1776289820073,543,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-29,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",921,231,10,10,https://fakestoreapi.com/auth/login,543,0,130
+1776289820136,544,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-35,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",924,235,9,9,https://fakestoreapi.com/auth/login,544,0,129
+1776289819266,1570,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-31,text,false,"La operación duró demasiado: tardó 1.570 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",921,231,9,9,https://fakestoreapi.com/auth/login,1569,0,1152
+1776289819654,1548,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-32,text,false,"La operación duró demasiado: tardó 1.548 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",923,231,10,10,https://fakestoreapi.com/auth/login,1548,0,1138
+1776289820682,546,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-35,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,229,10,10,https://fakestoreapi.com/auth/login,546,0,133
+1776289820912,530,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,229,10,10,https://fakestoreapi.com/auth/login,529,0,125
+1776289820044,1558,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-30,text,false,"La operación duró demasiado: tardó 1.558 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",909,230,10,10,https://fakestoreapi.com/auth/login,1558,0,1144
+1776289820034,1572,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-37,text,false,"La operación duró demasiado: tardó 1.572 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",912,229,10,10,https://fakestoreapi.com/auth/login,1572,0,1154
+1776289820121,1562,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-34,text,false,"La operación duró demasiado: tardó 1.562 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",924,229,10,10,https://fakestoreapi.com/auth/login,1561,0,1146
+1776289820160,1558,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-33,text,false,"La operación duró demasiado: tardó 1.558 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",913,229,10,10,https://fakestoreapi.com/auth/login,1557,0,1144
+1776289821443,543,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,11,11,https://fakestoreapi.com/auth/login,543,0,129
+1776289820485,1554,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-38,text,false,"La operación duró demasiado: tardó 1.554 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",911,230,11,11,https://fakestoreapi.com/auth/login,1553,0,1138
+1776289820555,1555,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-36,text,false,"La operación duró demasiado: tardó 1.555 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",911,231,11,11,https://fakestoreapi.com/auth/login,1555,0,1140
+1776289821683,544,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,230,11,11,https://fakestoreapi.com/auth/login,544,0,126
+1776289820836,1601,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-31,text,false,"La operación duró demasiado: tardó 1.601 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",916,235,11,11,https://fakestoreapi.com/auth/login,1601,0,1139
+1776289822110,534,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,230,11,11,https://fakestoreapi.com/auth/login,534,0,124
+1776289821202,1580,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-32,text,false,"La operación duró demasiado: tardó 1.580 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",917,230,11,11,https://fakestoreapi.com/auth/login,1580,0,1135
+1776289821229,1554,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-35,text,false,"La operación duró demasiado: tardó 1.554 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,231,11,11,https://fakestoreapi.com/auth/login,1554,0,1144
+1776289822227,558,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,231,11,11,https://fakestoreapi.com/auth/login,558,0,146
+1776289821606,1562,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-37,text,false,"La operación duró demasiado: tardó 1.562 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",908,229,12,12,https://fakestoreapi.com/auth/login,1562,0,1134
+1776289821603,1580,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-30,text,false,"La operación duró demasiado: tardó 1.580 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",916,235,12,12,https://fakestoreapi.com/auth/login,1580,0,1139
+1776289822645,556,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",922,235,12,12,https://fakestoreapi.com/auth/login,556,0,127
+1776289821718,1538,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-33,text,false,"La operación duró demasiado: tardó 1.538 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",917,231,12,12,https://fakestoreapi.com/auth/login,1538,0,1131
+1776289822783,540,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-35,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,230,12,12,https://fakestoreapi.com/auth/login,540,0,128
+1776289821913,1578,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-40,text,false,"La operación duró demasiado: tardó 1.578 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",920,229,12,12,https://fakestoreapi.com/auth/login,1577,0,1174
+1776289821987,1576,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-39,text,false,"La operación duró demasiado: tardó 1.576 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",920,235,12,12,https://fakestoreapi.com/auth/login,1576,0,1160
+1776289822039,1547,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-38,text,false,"La operación duró demasiado: tardó 1.547 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",907,229,12,12,https://fakestoreapi.com/auth/login,1546,0,1137
+1776289823184,557,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-30,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,229,12,12,https://fakestoreapi.com/auth/login,557,0,131
+1776289823202,544,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,230,11,11,https://fakestoreapi.com/auth/login,544,0,126
+1776289823257,551,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,231,11,11,https://fakestoreapi.com/auth/login,551,0,135
+1776289823325,542,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-35,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,229,11,11,https://fakestoreapi.com/auth/login,542,0,132
+1776289822439,1549,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-31,text,false,"La operación duró demasiado: tardó 1.549 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",916,229,12,12,https://fakestoreapi.com/auth/login,1549,0,1129
+1776289823564,621,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,229,12,12,https://fakestoreapi.com/auth/login,620,0,206
+1776289822786,1548,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-34,text,false,"La operación duró demasiado: tardó 1.548 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",913,231,12,12,https://fakestoreapi.com/auth/login,1547,0,1130
+1776289823810,536,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,229,12,12,https://fakestoreapi.com/auth/login,535,0,132
+1776289822783,1565,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-32,text,false,"La operación duró demasiado: tardó 1.565 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",914,229,11,11,https://fakestoreapi.com/auth/login,1565,0,1130
+1776289822914,1533,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-41,text,false,"La operación duró demasiado: tardó 1.533 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",912,229,11,11,https://fakestoreapi.com/auth/login,1532,0,1131
+1776289823988,552,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,230,11,11,https://fakestoreapi.com/auth/login,551,0,136
+1776289823168,1552,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-37,text,false,"La operación duró demasiado: tardó 1.552 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",920,235,10,10,https://fakestoreapi.com/auth/login,1552,0,1141
+1776289824185,545,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,231,10,10,https://fakestoreapi.com/auth/login,545,0,130
+1776289824446,544,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,229,11,11,https://fakestoreapi.com/auth/login,544,0,127
+1776289823491,1548,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-40,text,false,"La operación duró demasiado: tardó 1.548 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",912,235,11,11,https://fakestoreapi.com/auth/login,1548,0,1137
+1776289823586,1538,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-38,text,false,"La operación duró demasiado: tardó 1.538 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",914,230,11,11,https://fakestoreapi.com/auth/login,1538,0,1129
+1776289823747,1554,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-36,text,false,"La operación duró demasiado: tardó 1.554 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",919,231,11,11,https://fakestoreapi.com/auth/login,1554,0,1135
+1776289823867,1564,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-35,text,false,"La operación duró demasiado: tardó 1.564 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,235,11,11,https://fakestoreapi.com/auth/login,1564,0,1150
+1776289823911,1579,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-42,text,false,"La operación duró demasiado: tardó 1.579 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",911,229,11,11,https://fakestoreapi.com/auth/login,1579,0,1154
+1776289824990,588,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,235,11,11,https://fakestoreapi.com/auth/login,588,0,142
+1776289825124,554,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,230,11,11,https://fakestoreapi.com/auth/login,554,0,135
+1776289825301,545,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,231,11,11,https://fakestoreapi.com/auth/login,545,0,129
+1776289824348,1564,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-32,text,false,"La operación duró demasiado: tardó 1.564 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",920,235,12,12,https://fakestoreapi.com/auth/login,1564,0,1149
+1776289824334,1597,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-34,text,false,"La operación duró demasiado: tardó 1.597 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",915,229,12,12,https://fakestoreapi.com/auth/login,1597,0,1155
+1776289825431,552,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-35,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,229,12,12,https://fakestoreapi.com/auth/login,552,0,138
+1776289825578,541,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",907,229,12,12,https://fakestoreapi.com/auth/login,541,0,130
+1776289825678,552,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",907,230,12,12,https://fakestoreapi.com/auth/login,551,0,137
+1776289824720,1550,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-37,text,false,"La operación duró demasiado: tardó 1.550 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",911,230,12,12,https://fakestoreapi.com/auth/login,1549,0,1130
+1776289824729,1563,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-39,text,false,"La operación duró demasiado: tardó 1.563 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",915,231,12,12,https://fakestoreapi.com/auth/login,1562,0,1137
+1776289825846,545,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,231,12,12,https://fakestoreapi.com/auth/login,545,0,134
+1776289825912,548,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,229,11,11,https://fakestoreapi.com/auth/login,548,0,141
+1776289825913,549,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-32,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,235,11,11,https://fakestoreapi.com/auth/login,549,0,136
+1776289825932,535,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,229,10,10,https://fakestoreapi.com/auth/login,535,0,127
+1776289824912,1563,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-43,text,false,"La operación duró demasiado: tardó 1.563 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",916,229,9,9,https://fakestoreapi.com/auth/login,1563,0,1151
+1776289825039,1559,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-40,text,false,"La operación duró demasiado: tardó 1.559 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",913,229,9,9,https://fakestoreapi.com/auth/login,1558,0,1150
+1776289826292,547,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,229,9,9,https://fakestoreapi.com/auth/login,547,0,132
+1776289826461,554,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",907,230,10,10,https://fakestoreapi.com/auth/login,554,0,132
+1776289826476,565,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,231,10,10,https://fakestoreapi.com/auth/login,564,0,141
+1776289825490,1554,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-42,text,false,"La operación duró demasiado: tardó 1.554 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",926,235,10,10,https://fakestoreapi.com/auth/login,1554,0,1137
+1776289826599,531,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,229,10,10,https://fakestoreapi.com/auth/login,530,0,128
+1776289826839,537,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",926,235,10,10,https://fakestoreapi.com/auth/login,537,0,125
+1776289825984,1566,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-35,text,false,"La operación duró demasiado: tardó 1.566 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",920,230,10,10,https://fakestoreapi.com/auth/login,1566,0,1126
+1776289827016,540,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,230,9,9,https://fakestoreapi.com/auth/login,539,0,127
+1776289827041,544,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,231,9,9,https://fakestoreapi.com/auth/login,543,0,122
+1776289826119,1544,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-41,text,false,"La operación duró demasiado: tardó 1.544 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",911,231,9,9,https://fakestoreapi.com/auth/login,1544,0,1135
+1776289826231,1567,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-38,text,false,"La operación duró demasiado: tardó 1.567 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",919,229,9,9,https://fakestoreapi.com/auth/login,1567,0,1129
+1776289826270,1558,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-37,text,false,"La operación duró demasiado: tardó 1.558 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",920,235,9,9,https://fakestoreapi.com/auth/login,1558,0,1142
+1776289827377,552,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,229,10,10,https://fakestoreapi.com/auth/login,552,0,134
+1776289827585,535,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,231,10,10,https://fakestoreapi.com/auth/login,535,0,124
+1776289827664,549,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,229,10,10,https://fakestoreapi.com/auth/login,548,0,133
+1776289827799,557,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,235,10,10,https://fakestoreapi.com/auth/login,556,0,134
+1776289827829,536,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-37,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,229,10,10,https://fakestoreapi.com/auth/login,536,0,126
+1776289827910,564,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,230,10,10,https://fakestoreapi.com/auth/login,563,0,134
+1776289827930,544,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,231,10,10,https://fakestoreapi.com/auth/login,543,0,129
+1776289826911,1563,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-45,text,false,"La operación duró demasiado: tardó 1.563 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",913,229,10,10,https://fakestoreapi.com/auth/login,1562,0,1145
+1776289827045,1556,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-42,text,false,"La operación duró demasiado: tardó 1.556 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",912,229,9,9,https://fakestoreapi.com/auth/login,1555,0,1138
+1776289827130,1576,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-40,text,false,"La operación duró demasiado: tardó 1.576 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",911,235,9,9,https://fakestoreapi.com/auth/login,1576,0,1133
+1776289828475,545,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-45,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,229,10,10,https://fakestoreapi.com/auth/login,545,0,125
+1776289827556,1557,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-44,text,false,"La operación duró demasiado: tardó 1.557 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",916,230,10,10,https://fakestoreapi.com/auth/login,1556,0,1141
+1776289828601,525,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-42,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,235,10,10,https://fakestoreapi.com/auth/login,525,0,121
+1776289828707,569,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",910,229,10,10,https://fakestoreapi.com/auth/login,569,0,130
+1776289828912,543,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,230,10,10,https://fakestoreapi.com/auth/login,543,0,133
+1776289829021,552,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-45,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,231,10,10,https://fakestoreapi.com/auth/login,551,0,138
+1776289829114,543,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,229,10,10,https://fakestoreapi.com/auth/login,543,0,126
+1776289828121,1536,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-43,text,false,"La operación duró demasiado: tardó 1.536 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,229,10,10,https://fakestoreapi.com/auth/login,1536,0,1132
+1776289828213,1549,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-41,text,false,"La operación duró demasiado: tardó 1.549 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",920,235,10,10,https://fakestoreapi.com/auth/login,1549,0,1138
+1776289828356,1557,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-38,text,false,"La operación duró demasiado: tardó 1.557 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,229,11,11,https://fakestoreapi.com/auth/login,1557,0,1139
+1776289828366,1556,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-37,text,false,"La operación duró demasiado: tardó 1.556 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",911,230,11,11,https://fakestoreapi.com/auth/login,1556,0,1142
+1776289828474,1556,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-46,text,false,"La operación duró demasiado: tardó 1.556 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",915,231,11,11,https://fakestoreapi.com/auth/login,1556,0,1150
+1776289829658,589,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,229,11,11,https://fakestoreapi.com/auth/login,589,0,166
+1776289829763,546,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,229,11,11,https://fakestoreapi.com/auth/login,546,0,141
+1776289829913,544,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,231,11,11,https://fakestoreapi.com/auth/login,543,0,125
+1776289830031,571,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",923,235,10,10,https://fakestoreapi.com/auth/login,570,0,133
+1776289829127,1545,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-42,text,false,"La operación duró demasiado: tardó 1.545 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,235,10,10,https://fakestoreapi.com/auth/login,1545,0,1133
+1776289830247,561,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,229,10,10,https://fakestoreapi.com/auth/login,560,0,128
+1776289829277,1544,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-40,text,false,"La operación duró demasiado: tardó 1.544 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",927,229,10,10,https://fakestoreapi.com/auth/login,1544,0,1131
+1776289830310,537,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,230,10,10,https://fakestoreapi.com/auth/login,537,0,126
+1776289829456,1571,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-47,text,false,"La operación duró demasiado: tardó 1.571 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",909,230,11,11,https://fakestoreapi.com/auth/login,1570,0,1141
+1776289829573,1554,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-45,text,false,"La operación duró demasiado: tardó 1.554 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",913,231,11,11,https://fakestoreapi.com/auth/login,1553,0,1131
+1776289830602,556,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",925,231,11,11,https://fakestoreapi.com/auth/login,556,0,139
+1776289829658,1549,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-43,text,false,"La operación duró demasiado: tardó 1.549 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",914,235,11,11,https://fakestoreapi.com/auth/login,1548,0,1136
+1776289830848,534,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,230,11,11,https://fakestoreapi.com/auth/login,534,0,126
+1776289829911,1551,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-48,text,false,"La operación duró demasiado: tardó 1.551 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",919,230,10,10,https://fakestoreapi.com/auth/login,1551,0,1137
+1776289829923,1546,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-37,text,false,"La operación duró demasiado: tardó 1.546 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",916,229,10,10,https://fakestoreapi.com/auth/login,1546,0,1135
+1776289831158,567,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,229,9,9,https://fakestoreapi.com/auth/login,567,0,133
+1776289831207,541,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,230,9,9,https://fakestoreapi.com/auth/login,540,0,126
+1776289831463,530,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",921,231,10,10,https://fakestoreapi.com/auth/login,530,0,126
+1776289830673,1551,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-42,text,false,"La operación duró demasiado: tardó 1.551 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",908,229,10,10,https://fakestoreapi.com/auth/login,1551,0,1144
+1776289831726,540,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,229,10,10,https://fakestoreapi.com/auth/login,540,0,128
+1776289830808,1547,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-44,text,false,"La operación duró demasiado: tardó 1.547 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",920,235,10,10,https://fakestoreapi.com/auth/login,1547,0,1138
+1776289830822,1577,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-40,text,false,"La operación duró demasiado: tardó 1.577 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,229,10,10,https://fakestoreapi.com/auth/login,1577,0,1143
+1776289830911,1588,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-49,text,false,"La operación duró demasiado: tardó 1.588 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",915,231,10,10,https://fakestoreapi.com/auth/login,1587,0,1177
+1776289831028,1579,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-47,text,false,"La operación duró demasiado: tardó 1.579 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",906,229,10,10,https://fakestoreapi.com/auth/login,1579,0,1157
+1776289831127,1557,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-45,text,false,"La operación duró demasiado: tardó 1.557 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,235,10,10,https://fakestoreapi.com/auth/login,1557,0,1143
+1776289832225,574,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-42,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,231,10,10,https://fakestoreapi.com/auth/login,574,0,131
+1776289832268,545,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,229,10,10,https://fakestoreapi.com/auth/login,545,0,131
+1776289832356,533,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,235,10,10,https://fakestoreapi.com/auth/login,533,0,128
+1776289832400,542,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,11,11,https://fakestoreapi.com/auth/login,542,0,129
+1776289832499,538,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,230,11,11,https://fakestoreapi.com/auth/login,538,0,128
+1776289832608,565,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,231,11,11,https://fakestoreapi.com/auth/login,565,0,133
+1776289832813,560,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,229,11,11,https://fakestoreapi.com/auth/login,560,0,122
+1776289832799,574,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-42,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",925,235,11,11,https://fakestoreapi.com/auth/login,574,0,128
+1776289831748,1625,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-43,text,false,"La operación duró demasiado: tardó 1.625 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",912,235,11,11,https://fakestoreapi.com/auth/login,1625,0,1148
+1776289831913,1560,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-50,text,false,"La operación duró demasiado: tardó 1.560 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",913,229,11,11,https://fakestoreapi.com/auth/login,1560,0,1131
+1776289832911,573,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-51,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,231,11,11,https://fakestoreapi.com/auth/login,573,0,141
+1776289831994,1573,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-48,text,false,"La operación duró demasiado: tardó 1.573 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",921,230,11,11,https://fakestoreapi.com/auth/login,1573,0,1155
+1776289833174,683,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,229,11,11,https://fakestoreapi.com/auth/login,683,0,262
+1776289833375,529,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,229,11,11,https://fakestoreapi.com/auth/login,529,0,120
+1776289833373,533,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-42,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,231,11,11,https://fakestoreapi.com/auth/login,533,0,125
+1776289833373,538,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,230,12,12,https://fakestoreapi.com/auth/login,537,0,125
+1776289833474,527,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,235,12,12,https://fakestoreapi.com/auth/login,527,0,121
+1776289833567,528,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,230,12,12,https://fakestoreapi.com/auth/login,528,0,127
+1776289832685,1548,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-45,text,false,"La operación duró demasiado: tardó 1.548 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",914,229,12,12,https://fakestoreapi.com/auth/login,1547,0,1137
+1776289833858,548,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,231,12,12,https://fakestoreapi.com/auth/login,547,0,127
+1776289832889,1542,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-44,text,false,"La operación duró demasiado: tardó 1.542 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",911,230,12,12,https://fakestoreapi.com/auth/login,1542,0,1130
+1776289833906,535,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",910,229,11,11,https://fakestoreapi.com/auth/login,534,0,121
+1776289833911,556,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-52,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,229,10,10,https://fakestoreapi.com/auth/login,556,0,141
+1776289832943,1561,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-40,text,false,"La operación duró demasiado: tardó 1.561 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",914,229,10,10,https://fakestoreapi.com/auth/login,1561,0,1138
+1776289833038,1545,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-49,text,false,"La operación duró demasiado: tardó 1.545 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,235,9,9,https://fakestoreapi.com/auth/login,1545,0,1129
+1776289834097,544,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,229,9,9,https://fakestoreapi.com/auth/login,544,0,133
+1776289834407,533,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,10,10,https://fakestoreapi.com/auth/login,533,0,128
+1776289833485,1558,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-51,text,false,"La operación duró demasiado: tardó 1.558 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",917,229,10,10,https://fakestoreapi.com/auth/login,1558,0,1139
+1776289834469,606,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-52,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,230,10,10,https://fakestoreapi.com/auth/login,606,0,156
+1776289834940,540,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,229,10,10,https://fakestoreapi.com/auth/login,540,0,136
+1776289833907,1584,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-42,text,false,"La operación duró demasiado: tardó 1.584 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",916,235,10,10,https://fakestoreapi.com/auth/login,1584,0,1168
+1776289833911,1585,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-46,text,false,"La operación duró demasiado: tardó 1.585 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",916,230,9,9,https://fakestoreapi.com/auth/login,1585,0,1164
+1776289834001,1585,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-50,text,false,"La operación duró demasiado: tardó 1.585 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",913,231,8,8,https://fakestoreapi.com/auth/login,1585,0,1166
+1776289835076,623,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-52,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,231,8,8,https://fakestoreapi.com/auth/login,623,0,139
+1776289834233,1554,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-45,text,false,"La operación duró demasiado: tardó 1.554 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,235,8,8,https://fakestoreapi.com/auth/login,1554,0,1134
+1776289835481,537,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,229,9,9,https://fakestoreapi.com/auth/login,537,0,129
+1776289834585,1594,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-49,text,false,"La operación duró demasiado: tardó 1.594 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",921,231,9,9,https://fakestoreapi.com/auth/login,1594,0,1181
+1776289834643,1544,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-48,text,false,"La operación duró demasiado: tardó 1.544 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",908,229,9,9,https://fakestoreapi.com/auth/login,1544,0,1136
+1776289835588,605,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,235,9,9,https://fakestoreapi.com/auth/login,605,0,179
+1776289835700,547,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-52,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,9,9,https://fakestoreapi.com/auth/login,547,0,135
+1776289835788,558,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-45,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,230,9,9,https://fakestoreapi.com/auth/login,558,0,139
+1776289835912,541,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-54,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,231,9,9,https://fakestoreapi.com/auth/login,541,0,137
+1776289834912,1567,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-53,text,false,"La operación duró demasiado: tardó 1.567 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,235,9,9,https://fakestoreapi.com/auth/login,1566,0,1152
+1776289835044,1562,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-51,text,false,"La operación duró demasiado: tardó 1.562 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",917,230,9,9,https://fakestoreapi.com/auth/login,1561,0,1140
+1776289836180,541,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,235,9,9,https://fakestoreapi.com/auth/login,540,0,129
+1776289836194,538,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,230,9,9,https://fakestoreapi.com/auth/login,538,0,128
+1776289836188,552,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,229,9,9,https://fakestoreapi.com/auth/login,551,0,132
+1776289836479,550,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-53,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,229,10,10,https://fakestoreapi.com/auth/login,550,0,133
+1776289836606,532,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-51,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",910,230,10,10,https://fakestoreapi.com/auth/login,531,0,122
+1776289836740,524,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,235,10,10,https://fakestoreapi.com/auth/login,524,0,120
+1776289836019,1540,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-47,text,false,"La operación duró demasiado: tardó 1.540 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",910,229,10,10,https://fakestoreapi.com/auth/login,1540,0,1128
+1776289837030,531,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-53,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,230,9,9,https://fakestoreapi.com/auth/login,531,0,120
+1776289836247,1546,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-52,text,false,"La operación duró demasiado: tardó 1.546 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",910,231,9,9,https://fakestoreapi.com/auth/login,1545,0,1134
+1776289837265,553,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,9,9,https://fakestoreapi.com/auth/login,553,0,130
+1776289836347,1547,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-45,text,false,"La operación duró demasiado: tardó 1.547 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",912,229,9,9,https://fakestoreapi.com/auth/login,1546,0,1137
+1776289836454,1546,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-54,text,false,"La operación duró demasiado: tardó 1.546 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,235,10,10,https://fakestoreapi.com/auth/login,1546,0,1140
+1776289837562,545,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-53,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",927,235,10,10,https://fakestoreapi.com/auth/login,544,0,133
+1776289836721,1538,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-49,text,false,"La operación duró demasiado: tardó 1.538 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",915,231,10,10,https://fakestoreapi.com/auth/login,1538,0,1127
+1776289836733,1550,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-50,text,false,"La operación duró demasiado: tardó 1.550 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,229,10,10,https://fakestoreapi.com/auth/login,1550,0,1132
+1776289837818,547,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,230,10,10,https://fakestoreapi.com/auth/login,547,0,128
+1776289836912,1568,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-55,text,false,"La operación duró demasiado: tardó 1.568 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,229,9,9,https://fakestoreapi.com/auth/login,1568,0,1149
+1776289838001,538,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-54,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,235,9,9,https://fakestoreapi.com/auth/login,538,0,127
+1776289838107,543,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-53,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,229,9,9,https://fakestoreapi.com/auth/login,543,0,130
+1776289837138,1568,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-51,text,false,"La operación duró demasiado: tardó 1.568 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,231,9,9,https://fakestoreapi.com/auth/login,1568,0,1136
+1776289838259,542,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,230,9,9,https://fakestoreapi.com/auth/login,542,0,137
+1776289838283,543,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,231,9,9,https://fakestoreapi.com/auth/login,543,0,130
+1776289838540,552,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-54,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",922,235,10,10,https://fakestoreapi.com/auth/login,552,0,141
+1776289838651,610,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-53,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",908,229,10,10,https://fakestoreapi.com/auth/login,610,0,127
+1776289838802,553,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,231,10,10,https://fakestoreapi.com/auth/login,552,0,127
+1776289837793,1562,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-52,text,false,"La operación duró demasiado: tardó 1.562 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",919,229,10,10,https://fakestoreapi.com/auth/login,1561,0,1144
+1776289837894,1545,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-45,text,false,"La operación duró demasiado: tardó 1.545 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",921,231,10,10,https://fakestoreapi.com/auth/login,1545,0,1134
+1776289838912,553,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-57,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",926,235,9,9,https://fakestoreapi.com/auth/login,553,0,135
+1776289837913,1569,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-56,text,false,"La operación duró demasiado: tardó 1.569 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,229,9,9,https://fakestoreapi.com/auth/login,1568,0,1139
+1776289839093,628,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-54,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,229,9,9,https://fakestoreapi.com/auth/login,627,0,192
+1776289839355,582,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,231,10,10,https://fakestoreapi.com/auth/login,582,0,172
+1776289839356,601,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-52,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,229,10,10,https://fakestoreapi.com/auth/login,601,0,171
+1776289839482,577,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-56,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,10,10,https://fakestoreapi.com/auth/login,576,0,137
+1776289838481,1660,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-55,text,false,"La operación duró demasiado: tardó 1.660 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",915,229,10,10,https://fakestoreapi.com/auth/login,1660,0,1227
+1776289838707,1536,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-51,text,false,"La operación duró demasiado: tardó 1.536 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",913,230,10,10,https://fakestoreapi.com/auth/login,1536,0,1125
+1776289839721,528,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-54,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,230,10,10,https://fakestoreapi.com/auth/login,528,0,124
+1776289838827,1555,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-50,text,false,"La operación duró demasiado: tardó 1.555 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",912,229,10,10,https://fakestoreapi.com/auth/login,1555,0,1139
+1776289839912,547,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-58,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,231,10,10,https://fakestoreapi.com/auth/login,547,0,136
+1776289840059,548,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-56,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,229,10,10,https://fakestoreapi.com/auth/login,548,0,144
+1776289840244,545,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-51,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,231,10,10,https://fakestoreapi.com/auth/login,544,0,131
+1776289839262,1550,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-53,text,false,"La operación duró demasiado: tardó 1.550 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",911,230,10,10,https://fakestoreapi.com/auth/login,1549,0,1137
+1776289840383,539,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,235,11,11,https://fakestoreapi.com/auth/login,539,0,127
+1776289839466,1560,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-57,text,false,"La operación duró demasiado: tardó 1.560 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",915,235,11,11,https://fakestoreapi.com/auth/login,1560,0,1138
+1776289840813,543,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-53,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,229,11,11,https://fakestoreapi.com/auth/login,543,0,126
+1776289840912,566,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-59,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,235,11,11,https://fakestoreapi.com/auth/login,566,0,134
+1776289839939,1546,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-49,text,false,"La operación duró demasiado: tardó 1.546 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",912,229,11,11,https://fakestoreapi.com/auth/login,1546,0,1136
+1776289839957,1543,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-52,text,false,"La operación duró demasiado: tardó 1.543 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",916,235,10,10,https://fakestoreapi.com/auth/login,1543,0,1131
+1776289841027,540,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-57,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,230,10,10,https://fakestoreapi.com/auth/login,539,0,127
+1776289840142,1551,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-55,text,false,"La operación duró demasiado: tardó 1.551 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",915,230,10,10,https://fakestoreapi.com/auth/login,1550,0,1136
+1776289840250,1557,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-54,text,false,"La operación duró demasiado: tardó 1.557 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",927,229,10,10,https://fakestoreapi.com/auth/login,1557,0,1139
+1776289840460,1538,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-58,text,false,"La operación duró demasiado: tardó 1.538 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",912,229,11,11,https://fakestoreapi.com/auth/login,1538,0,1134
+1776289841567,527,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-57,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,11,11,https://fakestoreapi.com/auth/login,527,0,121
+1776289840607,1557,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-56,text,false,"La operación duró demasiado: tardó 1.557 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",916,230,11,11,https://fakestoreapi.com/auth/login,1556,0,1141
+1776289840789,1624,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-51,text,false,"La operación duró demasiado: tardó 1.624 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",919,231,11,11,https://fakestoreapi.com/auth/login,1624,0,1136
+1776289840923,1540,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-50,text,false,"La operación duró demasiado: tardó 1.540 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",915,229,11,11,https://fakestoreapi.com/auth/login,1540,0,1128
+1776289841356,1576,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-53,text,false,"La operación duró demasiado: tardó 1.576 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",912,231,11,11,https://fakestoreapi.com/auth/login,1576,0,1148
+1776289841479,1541,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-59,text,false,"La operación duró demasiado: tardó 1.541 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",908,229,10,10,https://fakestoreapi.com/auth/login,1541,0,1133
+1776289841500,1579,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-52,text,false,"La operación duró demasiado: tardó 1.579 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,235,9,9,https://fakestoreapi.com/auth/login,1579,0,1162
+1776289841693,1554,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-55,text,false,"La operación duró demasiado: tardó 1.554 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",913,230,8,8,https://fakestoreapi.com/auth/login,1553,0,1148
+1776289841808,1550,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-54,text,false,"La operación duró demasiado: tardó 1.550 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",911,231,7,7,https://fakestoreapi.com/auth/login,1550,0,1145
+1776289841913,1525,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-60,text,false,"La operación duró demasiado: tardó 1.525 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",912,229,6,6,https://fakestoreapi.com/auth/login,1524,0,1124
+1776289842912,535,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-61,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",923,229,5,5,https://fakestoreapi.com/auth/login,535,0,129
+1776289841998,1540,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-58,text,false,"La operación duró demasiado: tardó 1.540 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",912,235,4,4,https://fakestoreapi.com/auth/login,1539,0,1130
+1776289842095,1548,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-57,text,false,"La operación duró demasiado: tardó 1.548 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",913,229,3,3,https://fakestoreapi.com/auth/login,1548,0,1135
+1776289842164,1574,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-56,text,false,"La operación duró demasiado: tardó 1.574 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",914,230,2,2,https://fakestoreapi.com/auth/login,1573,0,1152
+1776289842413,1562,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-51,text,false,"La operación duró demasiado: tardó 1.562 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",927,231,2,2,https://fakestoreapi.com/auth/login,1562,0,1144
+1776289843911,625,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-62,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",921,235,1,1,https://fakestoreapi.com/auth/login,624,0,143
+1776289844914,646,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-63,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,231,1,1,https://fakestoreapi.com/auth/login,645,0,143
+1776289845913,583,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-64,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,235,1,1,https://fakestoreapi.com/auth/login,582,0,176
+1776289846912,696,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-65,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,230,1,1,https://fakestoreapi.com/auth/login,696,0,169
+1776289847912,557,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-66,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",907,229,1,1,https://fakestoreapi.com/auth/login,557,0,129
+1776289848911,642,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-67,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",910,229,1,1,https://fakestoreapi.com/auth/login,642,0,138
+1776289849910,1592,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-68,text,false,"La operación duró demasiado: tardó 1.592 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",911,231,2,2,https://fakestoreapi.com/auth/login,1592,0,1131
+1776289850911,591,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-69,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,229,2,2,https://fakestoreapi.com/auth/login,591,0,138
+1776289851911,613,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-70,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,230,1,1,https://fakestoreapi.com/auth/login,612,0,137
+1776289852913,625,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-71,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",910,229,1,1,https://fakestoreapi.com/auth/login,625,0,163
+1776289853912,666,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-72,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",910,229,1,1,https://fakestoreapi.com/auth/login,665,0,135
+1776289854912,685,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-73,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,231,1,1,https://fakestoreapi.com/auth/login,684,0,161
+1776289855911,605,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-74,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,235,1,1,https://fakestoreapi.com/auth/login,605,0,136
+1776289856912,629,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-75,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,230,1,1,https://fakestoreapi.com/auth/login,628,0,138
+1776289857911,661,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-76,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,229,1,1,https://fakestoreapi.com/auth/login,660,0,147
+1776289858912,779,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-77,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",907,229,1,1,https://fakestoreapi.com/auth/login,779,0,160
+1776289859913,597,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-78,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,231,1,1,https://fakestoreapi.com/auth/login,596,0,136
+1776289860910,624,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-79,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,235,1,1,https://fakestoreapi.com/auth/login,624,0,167
+1776289861911,654,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-80,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",910,230,1,1,https://fakestoreapi.com/auth/login,654,0,128
+1776289862911,549,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-81,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,1,1,https://fakestoreapi.com/auth/login,549,0,137
+1776289863928,677,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-82,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",922,229,1,1,https://fakestoreapi.com/auth/login,677,0,138
+1776289865912,646,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-84,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,229,2,2,https://fakestoreapi.com/auth/login,645,0,134
+1776289864911,1648,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-83,text,false,"La operación duró demasiado: tardó 1.648 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,231,1,1,https://fakestoreapi.com/auth/login,1647,0,1169
+1776289866912,673,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-85,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,230,1,1,https://fakestoreapi.com/auth/login,673,0,138
+1776289867913,686,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-86,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,229,1,1,https://fakestoreapi.com/auth/login,686,0,142
+1776289868911,1641,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-87,text,false,"La operación duró demasiado: tardó 1.641 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",911,229,2,2,https://fakestoreapi.com/auth/login,1641,0,1137
+1776289869911,1666,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-88,text,false,"La operación duró demasiado: tardó 1.666 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",913,230,2,2,https://fakestoreapi.com/auth/login,1666,0,1147
+1776289870911,667,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-89,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,229,2,2,https://fakestoreapi.com/auth/login,666,0,147
+1776289871912,579,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-90,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",908,230,1,1,https://fakestoreapi.com/auth/login,579,0,131
+1776289872913,602,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-91,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,229,1,1,https://fakestoreapi.com/auth/login,602,0,135
+1776289873912,1661,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-92,text,false,"La operación duró demasiado: tardó 1.661 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",915,229,2,2,https://fakestoreapi.com/auth/login,1660,0,1139
+1776289874911,662,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-93,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,230,2,2,https://fakestoreapi.com/auth/login,661,0,136
+1776289875910,679,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-94,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,235,1,1,https://fakestoreapi.com/auth/login,679,0,146
+1776289876911,598,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-95,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,230,1,1,https://fakestoreapi.com/auth/login,597,0,126
+1776289877913,1652,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-96,text,false,"La operación duró demasiado: tardó 1.652 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",912,229,2,2,https://fakestoreapi.com/auth/login,1651,0,1134
+1776289878911,654,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-97,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,235,2,2,https://fakestoreapi.com/auth/login,653,0,135
+1776289880913,580,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-99,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,229,2,2,https://fakestoreapi.com/auth/login,579,0,146
+1776289879912,1603,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-98,text,false,"La operación duró demasiado: tardó 1.603 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,231,1,1,https://fakestoreapi.com/auth/login,1602,0,1178
+1776289881912,614,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-100,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,230,1,1,https://fakestoreapi.com/auth/login,614,0,128
+1776289882912,571,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-101,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,229,1,1,https://fakestoreapi.com/auth/login,571,0,142
+1776289883913,764,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-102,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,229,1,1,https://fakestoreapi.com/auth/login,764,0,147
+1776289884912,586,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-103,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",928,231,1,1,https://fakestoreapi.com/auth/login,585,0,129
+1776289885911,546,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-104,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,235,1,1,https://fakestoreapi.com/auth/login,545,0,136
+1776289886912,640,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-105,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,230,1,1,https://fakestoreapi.com/auth/login,639,0,139
+1776289887913,655,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-106,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",922,229,1,1,https://fakestoreapi.com/auth/login,655,0,132
+1776289888912,680,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-107,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",912,229,1,1,https://fakestoreapi.com/auth/login,680,0,133
+1776289889910,1634,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-108,text,false,"La operación duró demasiado: tardó 1.634 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",919,231,2,2,https://fakestoreapi.com/auth/login,1634,0,1136
+1776289890911,633,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-109,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",923,229,2,2,https://fakestoreapi.com/auth/login,633,0,132
+1776289892912,684,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-111,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,231,2,2,https://fakestoreapi.com/auth/login,684,0,139
+1776289891912,1684,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-110,text,false,"La operación duró demasiado: tardó 1.684 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",911,230,2,2,https://fakestoreapi.com/auth/login,1678,0,1140
+1776289893912,595,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-112,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,229,1,1,https://fakestoreapi.com/auth/login,595,0,147
+1776289894910,633,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-113,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,231,1,1,https://fakestoreapi.com/auth/login,632,0,139
+1776289895911,648,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-114,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,235,1,1,https://fakestoreapi.com/auth/login,647,0,138
+1776289896911,676,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-115,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",911,230,1,1,https://fakestoreapi.com/auth/login,675,0,148
+1776289897910,1621,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-116,text,false,"La operación duró demasiado: tardó 1.621 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",921,229,2,2,https://fakestoreapi.com/auth/login,1620,0,1139
+1776289898910,621,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-117,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,235,2,2,https://fakestoreapi.com/auth/login,621,0,134
+1776289899911,1660,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-118,text,false,"La operación duró demasiado: tardó 1.660 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",912,231,2,2,https://fakestoreapi.com/auth/login,1660,0,1144
+1776289900912,662,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-119,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",927,229,1,1,https://fakestoreapi.com/auth/login,662,0,143
+1776289901910,583,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-120,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",919,230,1,1,https://fakestoreapi.com/auth/login,583,0,142
+1776289902911,619,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-121,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",910,229,1,1,https://fakestoreapi.com/auth/login,619,0,129
+1776289903912,1004,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-122,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",909,229,2,2,https://fakestoreapi.com/auth/login,1004,0,139
+1776289904911,656,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-123,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",918,230,1,1,https://fakestoreapi.com/auth/login,656,0,146
+1776289905910,584,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-124,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,235,1,1,https://fakestoreapi.com/auth/login,583,0,139
+1776289906912,606,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-125,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,230,1,1,https://fakestoreapi.com/auth/login,606,0,128
+1776289907912,632,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-126,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",913,229,1,1,https://fakestoreapi.com/auth/login,632,0,140
+1776289908933,627,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-127,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",914,229,1,1,https://fakestoreapi.com/auth/login,626,0,135
+1776289909911,988,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-128,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,231,1,1,https://fakestoreapi.com/auth/login,988,0,488
+1776289910912,607,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-129,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",916,235,1,1,https://fakestoreapi.com/auth/login,606,0,188
+1776289911913,556,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-130,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",915,230,1,1,https://fakestoreapi.com/auth/login,556,0,132
+1776289912913,749,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-131,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",910,229,1,1,https://fakestoreapi.com/auth/login,749,0,137
+1776289913911,674,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-132,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,229,1,1,https://fakestoreapi.com/auth/login,673,0,142
+1776289914910,592,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-133,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,231,1,1,https://fakestoreapi.com/auth/login,592,0,133
+1776289915910,1643,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-134,text,false,"La operación duró demasiado: tardó 1.643 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",918,235,2,2,https://fakestoreapi.com/auth/login,1642,0,1151
+1776289917912,659,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-136,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",917,231,2,2,https://fakestoreapi.com/auth/login,659,0,134
+1776289916911,1660,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-135,text,false,"La operación duró demasiado: tardó 1.660 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",919,229,2,2,https://fakestoreapi.com/auth/login,1660,0,1132
+1776289918910,1620,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-137,text,false,"La operación duró demasiado: tardó 1.620 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",915,229,2,2,https://fakestoreapi.com/auth/login,1619,0,1150
+1776289919911,1631,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-138,text,false,"La operación duró demasiado: tardó 1.631 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",917,230,2,2,https://fakestoreapi.com/auth/login,1631,0,1138
+1776289921912,968,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-140,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",920,229,2,2,https://fakestoreapi.com/auth/login,967,0,424
+1776289920913,1967,Petición HTTP,201,Created,Grupo_Hilos_fakestoreapi_Login 1-139,text,false,"La operación duró demasiado: tardó 1.967 milisegundos, cuando no debería haber tardado más de 1.500 milisegundos.",917,229,2,2,https://fakestoreapi.com/auth/login,1966,0,1421

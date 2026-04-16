@@ -1,31 +1,85 @@
-CONCLUSIONES DEL EJERCICIO DE PRUEBA DE CARGA
+CONCLUSIONES - PRUEBA DE PERFORMANCE
+1. RESUMEN GENERAL
 
-Tecnología utilizada:
-- Apache JMeter 5.6.3
-- Java JDK 8+
-- Sistema operativo: Windows 10/11
-- Script de prueba: Test Plan fakestoreapi.jmx
+Se ejecutaron tres escenarios de prueba:
 
-Hallazgos principales:
+Escenario	VUs	Resultado
+Línea base	20	Fallido
+Carga media	80	Fallido
+Carga alta	140	Fallido
 
-1. Usuarios Virtuales vs Requests:
-   - Los gráficos de 'Active Threads Over Time' muestran el incremento de usuarios virtuales según el plan de carga.
-   - 'Transactions per Second' refleja cómo las solicitudes por segundo aumentan a medida que se incrementa la carga.
+Todas las ejecuciones presentan una tasa de error del 100%.
 
-2. Rendimiento de la aplicación:
-   - Tiempos de respuesta estables bajo cargas bajas a medias.
-   - Picos de latencia observados al aumentar significativamente los usuarios simultáneos.
+2. HALLAZGO CRÍTICO
 
-3. Errores:
-   - No se detectaron errores críticos.
-   - Porcentaje de solicitudes fallidas mínimo o nulo según resultados.jtl y dashboard HTML.
+Se identificó el error:
 
-4. Conclusión general:
-   - El sistema maneja la carga planificada con rendimiento aceptable.
-   - Los dashboards HTML permiten analizar el comportamiento del sistema bajo diferentes cargas.
-   - Se recomienda realizar pruebas adicionales con escenarios más complejos para evaluar los límites de capacidad.
+HTTP 523 - Origin Unreachable
 
-Recomendaciones:
-- Monitorear latencia y throughput si se incrementa la carga más allá de los niveles actuales.
-- Usar dashboards HTML para reportes visuales de rendimiento.
-- Mantener registros de resultados.jtl para comparaciones futuras.
+Impacto:
+
+El servidor backend no responde
+No se pueden procesar solicitudes
+La prueba no mide performance real
+
+3. ANÁLISIS DE MÉTRICAS
+TPS (Throughput)
+No se alcanza el objetivo ≥ 20 TPS
+Valores obtenidos:
+2.05 TPS
+7.34 TPS
+4.57 TPS
+Tasa de error
+Resultado real: 100%
+Umbral esperado: < 3%
+Estado: NO CUMPLE
+Tiempos de respuesta
+Promedio: ~881 ms
+p95: ~1.60 s
+p99: ~1.75 s
+
+Estado:
+
+p95 excede el límite de 1.5 s
+
+4. ANÁLISIS DE GRÁFICOS
+
+Según el ejercicio de referencia:
+
+Se observa un patrón de incremento progresivo de carga
+Caída de TPS entre 01:50 y 02:00
+Recuperación posterior del sistema
+
+Interpretación:
+
+Saturación temporal del sistema
+Posible cuello de botella en backend o base de datos
+Sistema con capacidad de recuperación
+
+5. COMPARACIÓN CON RESULTADOS ESPERADOS
+Métrica	Umbral	Referencia	Resultado real
+TPS	≥ 20	Cumple	No cumple
+p95	≤ 1.5 s	1.28 s	No cumple
+Error rate	< 3%	2.44%	No cumple
+
+6. CONCLUSIÓN PRINCIPAL
+
+Las pruebas ejecutadas NO son válidas para evaluar performance debido a la indisponibilidad del servicio (error 523).
+
+El sistema bajo prueba no pudo ser evaluado correctamente.
+
+7. ACCIONES CORRECTIVAS
+Validar disponibilidad del API antes de pruebas
+Implementar reintentos (retry logic)
+Configurar timeouts adecuados
+Revisar infraestructura (Cloudflare / backend)
+Ejecutar nuevamente las pruebas
+8. RECOMENDACIÓN FINAL
+Reejecutar pruebas con API operativa
+Incrementar carga hasta 140 VUs
+Validar cumplimiento de:
+TPS ≥ 20
+p95 ≤ 1.5 s
+Error rate < 3%
+
+Solo bajo estas condiciones se podrá determinar la capacidad real del sistema.
